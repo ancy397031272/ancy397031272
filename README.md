@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
+
+![](https://raw.githubusercontent.com/ancy397031272/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/ancy397031272/github-stats-transparent/output/generated/languages.svg)
+
+### ⚡ Visitor count
+![](https://profile-counter.glitch.me/ancy397031272/count.svg)
